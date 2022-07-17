@@ -3,7 +3,7 @@ import HomeView from '../views/HomeView.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/inici',
     name: 'home',
     component: HomeView
   },
@@ -16,7 +16,32 @@ const routes = [
     component: function () {
       return import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
     }
+  },
+
+
+  {
+    path: '/canso/:id',
+    props: true,
+    name: 'canso',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/canso.vue')
+    }
+  },
+  {
+    path: '/',
+    name: 'negre',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/negre.vue')
+    }
   }
+
+
 ]
 
 const router = createRouter({

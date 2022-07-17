@@ -1,0 +1,121 @@
+{
+  "1": {
+    "titol": "titol de la priemra cançó",
+    "lletra": [
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La bondat i l’amor del Senyor",
+          "duren per sempre, ",
+          "duren per sempre.       (2)"
+        ]
+      },
+      {
+        "tipus": "estrofa",
+        "paragraf": [
+          "1. Enaltim el nostre Déu. ",
+          "Celebrem el seu amor."
+        ]
+      },
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La bondat i l’amor del Senyor",
+          "duren per sempre, ",
+          "duren per sempre.       (2)"
+        ]
+      },
+      {
+        "tipus": "estrofa",
+        "paragraf": [
+          "2. Dóna pau als nostres cors. ",
+          "Celebrem el seu amor."
+        ]
+      },
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La bondat i l’amor del Senyor",
+          "duren per sempre, ",
+          "duren per sempre.       (2)"
+        ]
+      },
+      {
+        "tipus": "estrofa",
+        "paragraf": [
+          "3. S’ha fet servidor de tots. ",
+          "Celebrem el seu amor."
+        ]
+      },
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La bondat i l’amor del Senyor",
+          "duren per sempre, ",
+          "duren per sempre.       (2)"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "titol": "titol segona cançó",
+    "lletra": [
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La llum de Jesucrist",
+          "és ja la llum del món.   (2)"
+        ]
+      },
+      {
+        "tipus": "estrofa",
+        "paragraf": [
+          "1. Cal que neixis un altre cop",
+          "per veure el regne de Déu; ",
+          "cal que rebis l’Esperit de Déu,",
+          "car és Ell qui dóna un viure nou."
+        ]
+      },
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La llum de Jesucrist",
+          "és ja la llum del món.   (2)"
+        ]
+      },
+      {
+        "tipus": "estrofa",
+        "paragraf": [
+          "2. Déu ha dat el seu únic Fill,",
+          "només pel seu gran amor. ",
+          "Perquè vol que aquell qui creu en Ell",
+          "tingui vida plena dintre seu."
+        ]
+      },
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La llum de Jesucrist",
+          "és ja la llum del món.   (2)"
+        ]
+      },
+      {
+        "tipus": "estrofa",
+        "paragraf": [
+          "3. Ha vingut vers el món la llum,",
+          "per tal que ens salvi del mal;",
+          "que deslliuri el món del  seu  pecat  ",
+          "i que guiï l’home vers el cel."
+        ]
+      },
+      {
+        "tipus": "tornada",
+        "paragraf": [
+          "La llum de Jesucrist",
+          "és ja la llum del món.   (2)"
+        ]
+      }
+    ]
+
+  }
+}
